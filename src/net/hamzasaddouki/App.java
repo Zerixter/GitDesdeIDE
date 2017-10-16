@@ -1,5 +1,5 @@
 package net.hamzasaddouki;
-
+// Comentari nou
 public class App {
     private static final int[] ARRAY = {1, 2, 3, 4, 5, 6};
     public static void main(String[] args) {
